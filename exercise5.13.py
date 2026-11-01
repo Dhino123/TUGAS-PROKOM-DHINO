@@ -1,2 +1,2 @@
-pengen buat game sederhana buat seru seruan
-ngatur keuangan iar lebih gampang
+# pengen buat game simple untuk seru seruan
+# ngatur keuangan biar lebih gampang

@@ -1,4 +1,4 @@
-#PEP 8
+# PEP 8
 
 # (Pakai 4 spasi untuk setiap tingkat menjorok.)
 # (Satu baris maksimal sekitar 79 karakter.)
