@@ -1,0 +1,1 @@
+print('kata dhino, "huhuuu hahaaa"')
